@@ -1,6 +1,6 @@
 <h1> Olá! Sou o Denis Righi! </h1>
 
-Seja bem vindo ao meu perfil.
+<h2> Seja bem vindo ao meu perfil </h2>
 
 Atualmente estou trabalhando como Analista de Sistemas
 
