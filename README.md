@@ -1,4 +1,4 @@
-Olá! Sou o Denis Righi!
+<h1> Olá! Sou o Denis Righi! </h1>
 
 Seja bem vindo ao meu perfil.
 
