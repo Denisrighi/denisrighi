@@ -28,6 +28,6 @@ Estudando linguagens de programação, Front End e Back End e tudo sobre Tecnolo
   <a href = "mailto:denisrighi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/denis-righi-473337215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-    ![Snake animation](https://github.com/denisrighi/denisrighi/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/Denisrighi/denisrighi/blob/main/README.md/github-contribution-grid-snake.svg)
    
   </div>
