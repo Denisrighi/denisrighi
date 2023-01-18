@@ -2,9 +2,9 @@
 
 <h2> Seja bem vindo(a) ao meu perfil </h2>
 
-Atualmente estou trabalhando como Analista de Sistemas
+Trabalho como Desenvolvedor Front End utilizando React.
 
-Estudando linguagens de programação, Front End e Back End e tudo sobre Tecnologia
+Sigo também estudando e vendo tudo sobre tecnologia!
 
 <div align="center">
   <a href="https://github.com/denisrighi">
